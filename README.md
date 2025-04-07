@@ -1,5 +1,5 @@
 # Credit Default Prediction and Financial Risk Analysis
-![image](credit-risk-analysis.jpg)
+![image](credit%20risk%20analysis.jpg)
 
 ## Links
 [Kaggle Dataset – Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit)
