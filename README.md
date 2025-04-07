@@ -40,7 +40,7 @@ The dataset includes the following key features:
 
 **SeriousDlqin2yrs** – Target: 1 = financial distress, 0 = no distress
 
-##Data Preparation
+## Data Preparation
 ### The data was cleaned and prepared by:
 1. Handling missing values
 2. Removing duplicate records
