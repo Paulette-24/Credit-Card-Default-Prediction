@@ -70,21 +70,31 @@ The dataset includes the following key features:
 ## Visualizations
 ### Correlation Heatmap  
 To identify relationships between features and detect multicollinearity.
+![Correlation Matrix](images/correlation%20matrix.png)
 
 ### Boxplots & Countplots  
 To visualize patterns in financial behavior by default outcome.
+![Monthly Income](images/Monthly%20Income%20vs%20Default.png)
+
+![Age](images/Age%20vs%20Financial%20Distress.png)
+
+![Delinquency Flags](images/Binary%20Delinquency%20Flags%20vs%20Target.png)
 
 ### ROC Curve  
 To evaluate model performance and its trade-off between true and false positives.
+![ROC Curve](images/ROC%20Curve.png)
 
 ### Feature Importance  
 Tree-based models highlighted the impact of custom features like delinquency flags.
+![Feature Importance](images/Feature%20Importance.png)
 
 ## Modeling
 I trained and tested several models including:
 - Logistic Regression
 - Random Forest Classifier
 - Gradient Boosting Classifier (final)
+
+![Confusion Matrix](images/Confusion%20Matrix.png)
 
 The final model (Gradient Boosting) was selected based on its balance of:
 - Accuracy: 87%
