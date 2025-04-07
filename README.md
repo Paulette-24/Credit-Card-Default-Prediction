@@ -99,8 +99,7 @@ Custom features based on financial logic:
 - Debt burden approximation
 - Summed delinquencies
 
-##Evaluation
-
+## Evaluation
 The final model’s metrics:
 - **Accuracy**: 87%
 - **Precision**: 82%
