@@ -72,7 +72,7 @@ The dataset includes the following key features:
 To identify relationships between features and detect multicollinearity.
 
 ### Boxplots & Countplots  
-To visualize patterns in financial behavior by distress outcome.
+To visualize patterns in financial behavior by default outcome.
 
 ### ROC Curve  
 To evaluate model performance and its trade-off between true and false positives.
